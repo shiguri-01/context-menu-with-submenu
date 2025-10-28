@@ -1,0 +1,5 @@
+{
+  "name": "React Context Menu",
+  "description": "A fully functional and stylistically refined context menu component built with React, TypeScript, and Tailwind CSS. It supports nested submenus, disabled items, separators, and custom actions.",
+  "requestFramePermissions": []
+}
